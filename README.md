@@ -1,1 +1,1 @@
-### Multivariate Linear Regression implementation with Python
+### Multivariate Linear Regression implementation in Python
